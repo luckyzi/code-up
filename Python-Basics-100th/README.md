@@ -8,4 +8,6 @@
 
 https://codeup.kr/
 
+## 사이트 이용 FAQ
+
 https://codeup.kr/faqs.ko.php
